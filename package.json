@@ -1,0 +1,19 @@
+{
+  "name": "@fuf-stack/npm-testpackage",
+  "version": "0.0.1",
+  "description": "just a test package for npm releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froehlichundfrei/npm-testpackage.git"
+  },
+  "author": "Hannes Tiede",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froehlichundfrei/npm-testpackage/issues"
+  },
+  "homepage": "https://github.com/froehlichundfrei/npm-testpackage#readme"
+}
