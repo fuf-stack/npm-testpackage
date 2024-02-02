@@ -1,6 +1,6 @@
 {
   "name": "@fuf-stack/npm-testpackage",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "just a test package for npm releases",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/froehlichundfrei/npm-testpackage.git"
-  },
-  "publishConfig": {
-    "@fuf-stack:registry": "https://npm.pkg.github.com"
   },
   "author": "Hannes Tiede",
   "license": "MIT",
